@@ -1,2 +1,2 @@
 import "babel-polyfill"
-import './js/14'
+import './js/06'

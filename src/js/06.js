@@ -17,6 +17,9 @@
             {brr:222}
         ]
     }
+    let {arr,arr:[x,{brr}]} = obj
+    console.log("模式匹配用例")
+    console.log(arr,x,brr)
 }
 
 {
