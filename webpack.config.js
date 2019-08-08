@@ -10,7 +10,7 @@ module.exports={
     devtool:'eval-source-map',
     devServer:{
         contentBase:'./public',
-        inline:true
+        inline:true //配置代码是否热更新
     },
     module: {
         rules: [
