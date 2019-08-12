@@ -22,5 +22,5 @@
         }
     }
     let child = new Child()
-    console.log(child.age ,child.name)
+    console.log(child.age,child.name)
 }
