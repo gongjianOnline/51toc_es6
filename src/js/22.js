@@ -24,5 +24,4 @@
     console.log(map1.get("a"));
     console.log(map1.delete("a"));
     console.log(map1.clear());
-
 }

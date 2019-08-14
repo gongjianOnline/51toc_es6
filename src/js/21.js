@@ -36,7 +36,6 @@
 {
     let set1 = new Set();
     console.log(set1);
-
     let set2 = new Set();
     console.log(set2)
 }

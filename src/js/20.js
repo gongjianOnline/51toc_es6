@@ -45,5 +45,4 @@
     Reflect.ownKeys(obj).forEach((tiem)=>{
         console.log(obj[tiem])
     })
-
 }
