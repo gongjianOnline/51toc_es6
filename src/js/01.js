@@ -5,4 +5,5 @@ console.log(str)
 var arr = [1,2,3,4];
 for(let val of arr.values()){
 	console.log(val)
+	
 }
